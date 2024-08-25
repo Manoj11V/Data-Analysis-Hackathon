@@ -1,7 +1,7 @@
 Data Analysis Project
 
 Overview
-This project involves a comprehensive analysis of IMDB_dataset using SQL for data extraction, transformation, and processing, and Power BI for visualization and reporting. The main objective of this analysis is to [state the main goal or problem you are addressing, e.g., "understand customer behavior," "analyze sales performance," "explore the correlation between variables," etc.].
+This project involves a comprehensive analysis of IMDB_dataset using SQL for data extraction, transformation, and processing, and Power BI for visualization and reporting. 
 Project Structure
 1. SQL Analysis
 
@@ -45,3 +45,5 @@ Files Included
     Power BI File:
         data_analysis_report.pbix: Contains the Power BI dashboards and reports.
 
+  Original data:imdb_top_1000.csv
+  Modified data:imdb.csv
